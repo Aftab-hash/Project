@@ -27,7 +27,7 @@ HR-Attrition-Prediction/
 │   └── ModelEvaluationReport_and_AttritionPreventions.pdf    # Accuracy, confusion matrix, SHAP ,SHAP-based HR recommendations
 ├── dashboard/
 │   └── HR_Attrition_DASHBOARD.pdf              # Power BI dashboard
-└── README.md  ``` 
+└── README.md 
  
 🛠️ Tools & Libraries
  -   Python (Pandas, Scikit-learn, SHAP, Seaborn)
